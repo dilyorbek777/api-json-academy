@@ -1,5 +1,4 @@
-{
-    "students": [
+
         {
             "student": "StudentName",
             "surnameStudent": "surnameStudent",
@@ -13,5 +12,4 @@
             "password":"1225544hfuh",
             "id": 1
         }
-    ]
-}
+
