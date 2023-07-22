@@ -1,0 +1,24 @@
+{
+    "students": [
+        {
+            "student": "StudentName",
+            "surnameStudent": "surnameStudent",
+            "group": "groupId_or_group_name",
+            "dateRegistered": "Year/month/day",
+            "numberStudent": "+998XX-XXX-XX-XX",
+            "numberParents": "+998XX-XXX-XX-XX",
+            "email":"sample@email.co.uz",
+            "priceCourse": "10 uzs",
+            "classDay": "Day-day2-day3, time",
+            "password":"1225544hfuh",
+            "id": 1
+        }
+    ],
+    "teachers": [
+        {
+            "teachername": "Teacher",
+            "number":"+998XX-XXX-XX-XX",
+            "id":1
+        }
+    ]
+}
